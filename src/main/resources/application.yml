@@ -1,0 +1,10 @@
+spring:
+  datasource:
+    driver-class-name: org.mariadb.jdbc.Driver
+    url: jdbc:mariadb://localhost:3306/adg0807
+#    url: jdbc:mariadb://adg0807.cafe24.com:3306/adg0807
+    username: adg0807
+    password: dAegeun1!
+  servlet:
+    multipart:
+      max-file-size: 5MB
