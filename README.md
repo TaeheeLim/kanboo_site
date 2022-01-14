@@ -15,9 +15,9 @@
 
 * 실시간 채팅 및 웹 컴파일러를 사용할 수 있는 PMS 프로그램
 
-## 아키텍트 구조
+## 아키텍트
 
-![Kanboo Architect](https://user-images.githubusercontent.com/84373490/149458329-f80f40f5-807a-41b6-b2bf-9af0a831600b.png)
+![Kanboo Architect](https://user-images.githubusercontent.com/84373490/149471998-270a75d0-c531-45d8-b195-9f54da94d495.png)
 
 ## 화면(Component) 별 설명
 
